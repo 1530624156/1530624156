@@ -1,3 +1,1 @@
- 
-<img src="https://gh-profile.deno.dev/?username=1530624156"/> 
-<!-- <img src="https://flappy-bird.deno.dev"/>-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1530624156)
